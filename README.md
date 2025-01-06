@@ -1,1 +1,1 @@
-<a href="[mypage_.html](https://rory-1991.github.io/one-page_website_frontend/mypage_.html)">one page website</a>
+<a href="mypage_.html">one page website</a>
